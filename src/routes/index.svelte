@@ -4,6 +4,6 @@
 </script>
 
 <GL.Canvas>
-	<GL.Mesh geometry={new THREE.BoxGeometry()}/>
-	<GL.PerspectiveCamera position={[2, 2, 5]}/>
+	<GL.Mesh geometry={new THREE.BoxGeometry()} />
+	<GL.PerspectiveCamera position={[2, 2, 5]} />
 </GL.Canvas>
